@@ -1,4 +1,3 @@
-# 《奇异人生》停车场歌露儿气急败坏&大卫max恋爱MOD
 #### 《奇异人生1》MOD统一安装方法
 #### 1.如果MOD涉及第1章
 ##### 将UPK文件(MOD本体)移动至SteamLibrary\steamapps\common\Life Is Strange\LifeIsStrangeGame\CookedPCConsoleFinal下，替换原UPK文件
